@@ -8,7 +8,8 @@ I’m John and I’m a staff devops engineer at [NearForm](https://nearform.com)
 - Simplifying, simplifying, simplifying
 
 🌱 I’m currently:
-- studying for my CKS certification.
+- Studying for my CKS certification.
+- Learning to play piano
 
 📫 How to reach me:
 - Mastodon: <https://mastodon.ie/@johnke>
