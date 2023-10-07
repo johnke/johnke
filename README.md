@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**johnke/johnke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m John and I’m a staff devops engineer at [NearForm](https://nearform.com)! 
 
-Here are some ideas to get you started:
+🔭 I’m currently working on
+- Concourse pipelines
+- Using mitmproxy to improve our hibernates debugging
+- Simplifying, simplifying, simplifying
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently
+- studying for my CKS certification.
+
+📫 How to reach me:
+- Mastodon: <https://mastodon.ie/@johnke>
+- Email: [hello@johnke.me](mailto:hello@johnke.me)
+
+⚡ Fun fact: I once worked as an English-language newsreader on Vatican Radio.
