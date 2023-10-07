@@ -2,12 +2,12 @@
 
 I’m John and I’m a staff devops engineer at [NearForm](https://nearform.com)! 
 
-🔭 I’m currently working on
+🔭 I’m currently working on:
 - Concourse pipelines
 - Using mitmproxy to improve our hibernates debugging
 - Simplifying, simplifying, simplifying
 
-🌱 I’m currently
+🌱 I’m currently:
 - studying for my CKS certification.
 
 📫 How to reach me:
@@ -15,3 +15,4 @@ I’m John and I’m a staff devops engineer at [NearForm](https://nearform.com)
 - Email: [hello@johnke.me](mailto:hello@johnke.me)
 
 ⚡ Fun fact: I once worked as an English-language newsreader on Vatican Radio.
+
