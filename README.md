@@ -4,11 +4,11 @@ I’m John and I’m a staff devops engineer at [NearForm](https://nearform.com)
 
 🔭 I’m currently working on:
 - Concourse pipelines
-- Using mitmproxy to improve our hibernates debugging
+- Using mitmproxy to improve our kubernetes debugging
 - Simplifying, simplifying, simplifying
 
 🌱 I’m currently:
-- Studying for my CKS certification.
+- ~Studying for my CKS certification.~ I passed!
 - Learning to play piano
 
 📫 How to reach me:
