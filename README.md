@@ -3,12 +3,12 @@
 I’m John and I’m a staff devops engineer at [NearForm](https://nearform.com)! 
 
 🔭 I’m currently working on:
-- Concourse pipelines
-- Using mitmproxy to improve our kubernetes debugging
+- Implementing Keda for k8s autoscaling
+- Trying to improve our internal documentation
 - Simplifying, simplifying, simplifying
 
 🌱 I’m currently:
-- ~Studying for my CKS certification.~ I passed!
+- Making tiny games in [Pico-8](https://www.lexaloffle.com/pico-8.php)
 - Learning to play piano
 
 📫 How to reach me:
