@@ -3,7 +3,7 @@
 I’m John and I’m a staff devops engineer at [NearForm](https://nearform.com)! 
 
 🔭 I’m currently working on:
-- Implementing Keda for k8s autoscaling
+- Migrating from Kubeadm to EKS
 - Trying to improve our internal documentation
 - Simplifying, simplifying, simplifying
 
